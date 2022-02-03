@@ -4,7 +4,7 @@
 
 Should install ruby
 
-```run ruby 1.rb
+```run ruby 1.rb```
 
 Then we get public key private key
 
